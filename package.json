@@ -1,7 +1,7 @@
 {
   "name": "object-param",
-  "version": "1.0.1",
-  "description": "Describe object-param here",
+  "version": "1.0.2",
+  "description": "对象解析成form表单提交时需要的格式",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -21,8 +21,11 @@
   "devDependencies": {
     "nwb": "0.15.x"
   },
-  "author": "",
+  "author": "mcdyzg",
   "homepage": "",
   "license": "MIT",
-  "repository": ""
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcdyzg/object-param.git"
+  }
 }
